@@ -3,3 +3,5 @@ __pycache__/
 train.log
 ppo_tensorboard/
 .venv/
+sac_tensorboard/
+train_sac.log
